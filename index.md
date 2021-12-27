@@ -5,6 +5,7 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./hello.html)
+[2nd Link to another page](./2nd.html)
 ![This is the title!](./assets/images/bullet.png "Image about bullet")
 [Link to google](https://www.google.com)
 There should be whitespace between paragraphs.
